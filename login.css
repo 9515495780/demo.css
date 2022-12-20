@@ -1,4 +1,4 @@
-/* Bordered form */
+/* //Bordered form */
 form {
     border: 3px solid #f1f1f1;
   }
@@ -57,6 +57,6 @@ form {
   span.psw {
     float: right;
     padding-top: 16px;
-  }
+  /* // */
   
   
